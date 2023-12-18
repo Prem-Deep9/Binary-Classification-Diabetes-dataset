@@ -41,7 +41,8 @@ The evaluation results demonstrate that the Mean replacement of NaN values tends
 | SVM          | 85.41    | 84.61     | 80.48  | 82.50    |
 
 These results suggest that, for the given dataset and task, Mean replacement for imputation and Random Forest for classification yield the most favorable outcomes.
-<img src="https://github.com/Prem-Deep9/Perceptron/blob/main/Binary%20Perceptron.png" height="400" width="600">\
+
+<img src="https://github.com/Prem-Deep9/Binary-Classification-Diabetes-dataset/blob/main/output_graph.png" height="500" width="500">
 
 # Inference of results:
 - Based on the results the ideal method to choose for NaN Replacement is by using Mean, and the best algorithm to use is Random Forest based on accuracy or F-1Score (because data is balanced accuracy should be given higher consideration).
